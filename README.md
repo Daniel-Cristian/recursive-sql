@@ -5,4 +5,5 @@
 <img
   src="https://github.com/Daniel-Cristian/recursive-sql/assets/90038552/f707e3a4-7110-4738-acbe-c1644c398efe"
   alt="E-R Diagram of Database"
-  title="E-R Diagram of Database">
+  title="E-R Diagram of Database"
+  width="600" height="600">
